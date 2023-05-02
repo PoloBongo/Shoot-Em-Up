@@ -12,6 +12,21 @@ Game contents:
 - Endless Mode
 - Boss Fight
 
+Here are some screenshots of the shooter :
+
+![image](https://user-images.githubusercontent.com/104658619/235717108-9145f202-faa5-461a-9f43-e82f2b8daed7.png)
+
+![image](https://user-images.githubusercontent.com/104658619/235717385-e77317ee-511c-4a01-a8a7-6db16f8b027d.png)
+
+Infinite mode :
+
+![image](https://user-images.githubusercontent.com/104658619/235717580-ad816f33-caf0-473d-b2f6-2f7ebc6e5594.png)
+
+Boss Fight :
+
+![image](https://user-images.githubusercontent.com/104658619/235717808-b4965a2b-dfe0-4bc8-a613-59737360fc7c.png)
+
+
 To launch the game, follow these steps:
 
 - Download the game and open the mini_studio folder in your Visual Studio Code.
